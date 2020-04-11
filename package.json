@@ -1,0 +1,27 @@
+{
+    "name": "dio-code-dark-theme",
+    "displayName": "@dio.code-dark",
+    "description": "Theme by @dio.code",
+    "publisher": "diocode",
+    "version": "0.0.5",
+    "icon": "images/icon.jpg",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "@dio.code-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/@dio.code-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DioCode/diocode-vscode-dark-theme"
+    }
+}
