@@ -23,4 +23,4 @@ This is the code that you need to past in a down of setting.
 ### You can change anything using [Theme Color](https://code.visualstudio.com/api/references/theme-color)
 
 # What it looks like
-![@dio.code Dark Theme](https://github.com/DioCode/diocode-vscode-dark-theme/blob/master/images/diocode-dark.jpg)
+![@dio.code Dark Theme](https://github.com/DioCode/diocode-vscode-dark-theme/raw/master/images/diocode-dark.jpg)
