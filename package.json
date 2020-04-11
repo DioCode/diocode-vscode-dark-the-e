@@ -3,7 +3,7 @@
     "displayName": "@dio.code-dark",
     "description": "Theme by @dio.code",
     "publisher": "diocode",
-    "version": "0.0.5",
+    "version": "1.0.5",
     "icon": "images/icon.jpg",
     "engines": {
         "vscode": "^1.44.0"
