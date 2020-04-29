@@ -1,16 +1,16 @@
-## @dio.code Dark Theme
-#### Created for you, by [@dio.code](https://www.instagram.com/dio.code)
+## @dio.codes Dark Theme
+
+#### Created for you, by [@dio.codes](https://www.instagram.com/dio.codes)
 
 # For whom this theme?
+
 I created this theme for my React Native development. But, you can also use it for any tools.
-
 If you want to customize it, you can add little more code to your `settings.json`.
-
-This is the code that you need to past in a down of setting.
+This is the code that you need to past in a down of settings.
 
 ```javascript
 "workbench.colorCustomizations": {
-   "[@dio.code-dark]": {
+   "[@dio.codes-dark]": {
       "statusBar.background": "#e1594a",
       "statusBar.foreground": "#dbeeff",
       "editorLineNumber.foreground": "#4e5861",
@@ -23,4 +23,5 @@ This is the code that you need to past in a down of setting.
 ### You can change anything using [Theme Color](https://code.visualstudio.com/api/references/theme-color)
 
 # What it looks like
-![@dio.code Dark Theme](https://github.com/DioCode/diocode-vscode-dark-theme/raw/master/images/diocode-dark.jpg)
+
+![@dio.codes Dark Theme](https://github.com/DioCodes/diocodes-vscode-dark-theme/raw/master/images/diocodes-dark.jpg)
